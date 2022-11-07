@@ -1,0 +1,4 @@
+﻿  4-1.c
+C:\Users\孙珈瑜\2022秋c语言作业\C2022FALL\2022W04\Project1\4-1.c(10,16): warning C4028: 形参 1 与声明不同
+C:\Users\孙珈瑜\2022秋c语言作业\C2022FALL\2022W04\Project1\4-1.c(10,27): warning C4029: 声明的形参表不同于定义
+  Project1.vcxproj -> C:\Users\孙珈瑜\2022秋c语言作业\C2022FALL\2022W04\Project1\x64\Debug\4-1.exe
