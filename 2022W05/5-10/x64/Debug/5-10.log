@@ -1,0 +1,4 @@
+﻿  5-10.c
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-10\5-10.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-10\5-10.c(7,9): message : 请考虑在格式字符串中使用“%zd”
+  5-10.vcxproj -> C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-10\x64\Debug\5-10.exe

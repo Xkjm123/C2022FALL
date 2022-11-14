@@ -1,0 +1,6 @@
+﻿  5-3.c
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-3\5-3.c(7,2): warning C4013: “srand”未定义；假设外部返回 int
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-3\5-3.c(7,8): warning C4013: “time”未定义；假设外部返回 int
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-3\5-3.c(9,10): warning C4013: “rand”未定义；假设外部返回 int
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-3\5-3.c(36): warning C4715: “binary_search_recursive”: 不是所有的控件路径都返回值
+  5-3.vcxproj -> C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-3\x64\Debug\5-3.exe

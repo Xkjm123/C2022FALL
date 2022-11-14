@@ -1,0 +1,5 @@
+﻿  5-7.c
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-7\5-7.c(7,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-7\5-7.c(9,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-7\5-7.c(9,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  5-7.vcxproj -> C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-7\x64\Debug\5-7.exe

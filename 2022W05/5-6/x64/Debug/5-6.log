@@ -1,0 +1,5 @@
+﻿  5-6.c
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-6\5-6.c(8,2): error C2198: “gets_s”: 用于调用的参数太少
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-6\5-6.c(24,17): warning C4047: “>”:“char *”与“int”的间接级别不同
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-6\5-6.c(24,28): warning C4098: “k_reverse”:“void”函数返回值
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W05\5-6\5-6.c(16,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
