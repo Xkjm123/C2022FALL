@@ -1,0 +1,5 @@
+﻿  6-11.c
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W06\6-11\6-11.c(14,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“Node *”
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W06\6-11\6-11.c(14,9): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "Node *" 的参数 1 冲突
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W06\6-11\6-11.c(17,26): warning C4026: 使用形参表声明的函数
+  6-11.vcxproj -> C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W06\6-11\x64\Debug\6-11.exe

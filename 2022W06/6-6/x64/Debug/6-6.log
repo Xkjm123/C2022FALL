@@ -1,0 +1,4 @@
+﻿  6-6.c
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W06\6-6\6-6.c(7,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W06\6-6\6-6.c(13,22): warning C4101: “j”: 未引用的局部变量
+  6-6.vcxproj -> C:\Users\孙珈瑜\the C Promgramming Language\C2022FALL\2022W06\6-6\x64\Debug\6-6.exe
